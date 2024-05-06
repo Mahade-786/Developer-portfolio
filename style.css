@@ -22,6 +22,7 @@ section {
 
 .half-width img {
     width: 70%;
+    border-radius: 145px;
 }
 
 .link-button {
@@ -30,4 +31,12 @@ section {
     padding: 08px 25px;
     border-radius: 5px;
     font-weight: 700;
+}
+
+.sei {
+    color: blueviolet;
+}
+
+.kimi {
+    color: burlywood;
 }
